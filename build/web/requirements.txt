@@ -1,3 +1,4 @@
+pywin32==306; sys_platform == "win32"
 absl-py==1.4.0
 aio-pika==8.2.3
 aiofiles==24.1.0
